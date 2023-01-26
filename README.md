@@ -15,7 +15,9 @@ There is zero official documentation on this API-driven camera. "Kyle" on the [F
 ----
 
 ## Disclaimer
-I'm just a guy getting to know these cameras better for use with my own web application. You can brick your C1 if you're not careful with SSH and API requests, so be careful. I can't be held responsible for any damage you cause to your C1.
+I'm just a guy getting to know these cameras better for my own needs. You can brick your C1 if you're not careful with SSH and API requests, so be careful. I had to revive mine from the dead a few times, so it certainly can happen. But I can't be held responsible for any damage you cause to your C1.
+
+![Screenshot](https://raw.githubusercontent.com/acceptableEngineering/Z-CAM-C1-Unofficial-Docs/main/.github/readme-images/disclaimer.jpg)
 
 ----
 
@@ -42,7 +44,7 @@ a9 login: root
 ```
 
 ### On-Screen Menu
-We haven't figured out how to navigate the on-screen menu on the version of the C1 without the build-in display, but I found that you can do the following to launch it:
+We haven't figured out how to navigate the on-screen menu on the version of the C1 without the built-in display, but I found that you can do the following to launch it:
 - Unplug power
 - Plug power back in
 - Press and release the Power button
