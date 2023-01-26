@@ -6,6 +6,8 @@ https://github.com/acceptableEngineering/Z-CAM-C1-Unofficial-Docs
 ### What is the C1?
 The C1 was a camera released by Chinese cinema camera maker Z CAM, in collaboration with Chinese company ImagineVision. It's very difficult to find information about this camera, as it was not long-lived. Imagine a powerful, industrial GoPro that can be commanded via wired network. A nice Sony sensor plus Micro Four-Thirds (MFT) lens mount results in a very versatile, tough camera.
 
+![Screenshot](https://raw.githubusercontent.com/acceptableEngineering/Z-CAM-C1-Unofficial-Docs/main/.github/readme-images/z-cam-c1.jpg)
+
 ### Why do we care?
 You can pick these up used for ~$200 after tax online. In my case, this is the perfect camera for multi-camera streaming, and they cost less than low-end Sony Handycams. It runs an HTTP API, and runs Linux with SSH.
 
