@@ -49,4 +49,4 @@ We haven't figured out how to navigate the on-screen menu on the version of the 
 - Hold down the Record and Power buttons until the C1 turns on
 - You should now see a menu like this
 
-![Screenshot](https://github.com/acceptableEngineering/Z-CAM-C1-Unofficial-Docs/raw/master/.github/readme-images/on-screen-menu.png)
+![Screenshot](https://raw.githubusercontent.com/acceptableEngineering/Z-CAM-C1-Unofficial-Docs/main/.github/readme-images/on-screen-menu.png)
